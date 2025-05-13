@@ -60,15 +60,15 @@ I'm a curious and determined student of Class 12, currently prepping for the **S
 - 📧 Email: [qwertybabaqwerty@gmail.com](mailto:qwertybabaqwerty@gmail.com)
 - 🖥️ GitHub: [github.com/kelopronan](https://github.com/kelopronan)
 
-*(Add LinkedIn/portfolio when ready)*
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelopronan&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelopronan&theme=radical" />
 </p>
 
 ---
