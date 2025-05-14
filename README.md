@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Devansh Tiwary 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Class 12 Student | SAT Candidate</h3>
+<h3 align="center">Aspiring Software Engineer | 12th Grader | SAT Candidate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Code.+Think.+Build.;Learning+one+language+at+a+time.;Focused+on+clean+logic+%26+growth." alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a curious and determined student of Class 12, currently prepping for the **SAT** while diving deep into programming. I thrive on understanding systems from the ground up and enjoy writing code that’s not just functional — but meaningful.
+I'm a curious and determined 12th Grader, currently prepping for the **SAT** while diving deep into programming. I thrive on understanding systems from the ground up and enjoy writing code that’s not just functional — but meaningful.
 
 - 🧩 Love solving logical problems  
 - 💬 Believe in building strong fundamentals  
